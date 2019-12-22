@@ -1,0 +1,10 @@
+*
+!*/
+!*.*
+#https://fhiyo.github.io/2017/10/07/git-ignore-all-extension-less-files.html
+*.o
+*.html
+*.csv
+*.txt
+*.json
+*.out
